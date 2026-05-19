@@ -10,7 +10,8 @@ The objective of this project is to develop a Recurrent Neural Network (RNN) mod
 
 The system will involve loading the datasets, preprocessing the data, building and training an RNN model, and then predicting stock prices for the test dataset. Finally, the predicted values will be compared with the actual stock prices to evaluate the performance and accuracy of the model.
 
-<img width="687" height="247" alt="image" src="https://github.com/user-attachments/assets/23bd6d77-b98f-4e08-a3bb-fee1dbde4b13" />
+<img width="628" height="191" alt="image" src="https://github.com/user-attachments/assets/6e55600d-6e3b-4d90-8dc3-736b30645e66" />
+
 
 
 ## DESIGN STEPS
