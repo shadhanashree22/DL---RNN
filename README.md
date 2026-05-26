@@ -77,8 +77,7 @@ def train_model(model,train_loader, criterion, optimizer,epochs=20):
     train_losses.append(total_loss/ len(train_loader))
     print(f"Epoch [{ epoch+1}/{epochs}], Loss: {total_loss/len(train_loader):.4f}")
     # Plot training loss
-  print('Name: Dhanusya K')
-  print('Register Number: 212223230043')
+
   plt.plot(train_losses, label='Training Loss')
   plt.xlabel('Epoch')
   plt.ylabel('MSE Loss')
